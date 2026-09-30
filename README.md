@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
