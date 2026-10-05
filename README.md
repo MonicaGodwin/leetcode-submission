@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0058-length-of-last-word) |
 ## Stack
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
