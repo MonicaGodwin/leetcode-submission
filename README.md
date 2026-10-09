@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0014-longest-common-prefix) |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
 ## String
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0242-valid-anagram) |
 ## Queue
 |  |
@@ -54,5 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
