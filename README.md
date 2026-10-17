@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
