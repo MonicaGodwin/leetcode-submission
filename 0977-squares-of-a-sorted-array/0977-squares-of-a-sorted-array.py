@@ -1,8 +1,22 @@
 class Solution:
     def sortedSquares(self, nums: list[int]) -> list[int]:
-        squared_list = []
-        for num in nums:
-            squre = num * num
-            squared_list.append(squre)
-            squared_list.sort()
-        return squared_list
+        left = 0
+        right = len(nums) - 1
+
+        result = [0] * len(nums)
+        position = len(nums) - 1
+
+        while left <= right:
+            left_square = nums[left] * nums[left]
+            right_square = nums[right] * nums[right]
+
+            if left_square > right_square:
+                result[position] = left_square
+                left += 1
+            else:
+                result[position] = right_square
+                right -= 1
+
+            position -= 1
+
+        return result
