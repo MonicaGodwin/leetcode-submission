@@ -3,12 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        left = 0
-        current_val = 0
-        while current_val < len(nums):
-            if nums[current_val] == 0:
-                current_val += 1
-            elif nums[current_val] != 0:
-                nums[left], nums[current_val] = nums[current_val], nums[left]
-                left += 1
-                current_val += 1
+        i = 0
+        j = 0
+        while j < len(nums):
+            if nums[j] == 0:
+                j += 1
+            else:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1
+                j += 1
+           
+            
