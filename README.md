@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/MonicaGodwin/leetcode-submission/tree/master/0977-squares-of-a-sorted-array) |
