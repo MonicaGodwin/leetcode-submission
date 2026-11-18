@@ -7,10 +7,11 @@ class Solution:
         right = n
         result = 0
         while left <= right:
-            mid = (left + right) // 2
-            if isBadVersion(mid) == True:
-                result = mid
+            mid = (left + right) // 2 
+            if isBadVersion(mid):
+                result =  mid
                 right = mid - 1
             elif isBadVersion(mid) == False:
                 left = mid + 1
         return result
+    
